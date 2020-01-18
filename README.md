@@ -143,9 +143,11 @@ Slow-boring-clear-fast will not stop the Titanic from sinking.
 
 ## Drawback
 
-This technique is boring and cold. Most people don't like feel not comfortable in a boring and cold environment.
+This technique is boring and cold. Most people don't like feel comfortable in a boring and cold environment.
 
 I guess the colorful/creative thinking and engagement can decrease if it gets used to often.
+
+And creative thinking is very important today, since all dull tasks get automated sooner or later.
 
 ## What do you think?
 
