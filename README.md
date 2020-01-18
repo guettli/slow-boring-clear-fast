@@ -140,3 +140,13 @@ For me it is important to have time. This means: less work, less money, more val
 Slow-boring-clear-fast is just a tool, not the solution. It can help you and your team, but the technique on its own can't solve anything.
 
 Slow-boring-clear-fast will not stop the Titanic from sinking. 
+
+## Drawback
+
+This technique is boring and cold. Most people don't like feel not comfortable in a boring and cold environment.
+
+I guess the colorful/creative thinking and engagement can decrease if it gets used to often.
+
+## What do you think?
+
+Please tell me: What do you think about this technique?
