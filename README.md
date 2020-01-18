@@ -83,7 +83,7 @@ details too soon.
 For example: a talented software developer will tell you how to write a script to solve your need. It is unlikely that he
 gives you the adivce to use a commercial software-as-a-service solution.
 
-You should always look at the option "do nothing, definition of done is missing.". I have seen discussion wasting hours of several people because management 
+You should always look at the option "decide nothing today. The "why?" question needs a more reasonable answers.". I have seen discussion wasting hours of several people because management 
 had unclear requirements. As long as the requirements are not well defined, it is better to do nothing. 
 If the goal is unclear you can't act. Ask for precise requirements first.
 
