@@ -111,6 +111,29 @@ If the goal is unclear you can't act. Ask for the "why?" and the overall goal fi
 
 Avoid [Groupthink](https://en.wikipedia.org/wiki/Groupthink#Prevention) TODO
 
+## Keep the big goal in mind
+
+What is your context?
+
+ * V1: Business
+ * V2: Spare time
+
+### V1: Business
+
+Be true to you and your peers: We are here to make money. If your boss could pay you no money, then you would not
+invest your spare time to find a solution for this current issue.
+
+How to make monkey? In most cases this works: "Make customers happy, then you earn money"
+
+In other words: the big goal is to have satisfied customers happy.
+
+It helps to keep this in mind. Otherwise internal (non productive) issues can get too much attention.
+
+### V2: Spare time
+
+What is the big goal of spare time? For me it is to have fun in some kind of group (family, friends) and learning/discovering new stuff. To care for my two children and for my health.
+
+For me it is important to have time. This means: less work, less money, more value
 
 ## It's just a tool
 
