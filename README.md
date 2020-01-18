@@ -57,11 +57,11 @@ Now the the important meeting starts and you are nervous. Relax. Let the
 [Swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence) flow. Start by talking.
 Don't present your prepared list. I am sure that all important points will be mentioned by someone.
 
-It is likely that you don't need to use this technique in the group.
+It is likely that you don't need to use this technique in the meeting.
 
 But sometimes the discission gets stuck. People talk and talk and no progress is visible.
 
-Then be brave and ask if you are allowed to ???? (todo: find matching term) the discussion.
+Then be brave and ask if you are allowed to slow down the discussion to make it more boring.
 
 Then ask: Which options do we have? Write down the options with prefixes: "V1: ..., V2: ....".
 All present people should be able to see these options.
