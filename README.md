@@ -149,4 +149,4 @@ I guess the colorful/creative thinking and engagement can decrease if it gets us
 
 ## What do you think?
 
-Please tell me: What do you think about this technique?
+Please tell me: What do you think about this technique? Leave a comment here: [issues](https://github.com/guettli/slow-boring-clear-fast/issues)
