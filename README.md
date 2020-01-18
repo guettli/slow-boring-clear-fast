@@ -62,9 +62,10 @@ What kind of meeting will it be?
 
 Now the the important meeting starts and you are nervous. Relax. Let the
 [Swarm intelligence](https://en.wikipedia.org/wiki/Swarm_intelligence) flow. 
-Don't present your prepared list like wannabe superhero. I am sure that all important points will be mentioned by someone.
+Don't present your prepared list like wannabe superhero. I am sure that all important points will be mentioned by someone. 
+And it is likely that a feasible decision gets found soon.
 
-It is likely that you don't need to use this technique in an open discussion.
+It was wise to prepare yourself, even if don't needed this technique your meeting.
 
 But sometimes the discussion gets stuck. People talk and talk and no progress is visible.
 
@@ -83,20 +84,26 @@ decision making.
 
 Sometimes it is needed to look at the options in more detail. For every option you can create sub-options or step-lists.
 
+### V2: Presentation
+
+You can use it for presentations. But be sure to add some colorful stories. Otherwise your audiance will fall asleep.
+
+I prefer this technique for open disussions.
+
 ## First options, then steps
 
 Start with the list of options. If you start with the steps, then you could ask: Is there an alternative to going these
 steps? There is always an alternative to the steps you are currently talking about.
 
 I have seen it several time in information technology related discussion. The experts love details. They get into the
-details too soon.
+details too immediately.
 
 For example: a talented software developer will tell you how to write a script to solve your need. It is unlikely that he
-gives you the adivce to use a commercial software-as-a-service solution.
+gives you the advice to use an existing software-as-a-service solution.
 
-You should always look at the option "decide nothing today. The "why?" question needs a more reasonable answers.". I have seen discussion wasting hours of several people because management 
-had unclear requirements. As long as the requirements are not well defined, it is better to do nothing. 
-If the goal is unclear you can't act. Ask for precise requirements first.
+You should always look at the option "we decide nothing today. The "why?" question needs a more reasonable answers.". I have seen discussion wasting hours of several people because management 
+had some fandy idea. But the "why?" question can't be answered. As long as the requirements are not well defined, it is better to do nothing. 
+If the goal is unclear you can't act. Ask for the "why?" and the overall goal first.
 
 
 
