@@ -1,8 +1,8 @@
-# Slow-boring-clear-fast: A simple decision-making techniques
+# Slow-boring-clear-fast: A simple decision-making technique
 
 ## Introduction
 
-Slow-boring-clear-fast is a simple decision-making techniques.
+Slow-boring-clear-fast is a simple decision-making technique.
 
 Slow: If you think and talk slow, then your thoughts are focused.
 
