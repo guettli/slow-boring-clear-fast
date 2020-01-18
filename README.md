@@ -125,7 +125,7 @@ invest your spare time to find a solution for this current issue.
 
 How to make monkey? In most cases this works: "Make customers happy, then you earn money"
 
-In other words: the big goal is to have satisfied customers happy.
+In other words: the big goal is to have satisfied customers.
 
 It helps to keep this in mind. Otherwise internal (non productive) issues can get too much attention.
 
