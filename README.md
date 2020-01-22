@@ -147,12 +147,14 @@ From the book "Site Reliability Engineering" (O'Reilly Media 2016) https://landi
 
 Quote:
 
-The Virtue of Boring
+> The Virtue of Boring
+> 
+> Unlike just about everything else in life, "boring" is actually a
+> positive attribute when it comes to software! We don’t want our
+> programs to be spontaneous and interesting; we want them to stick to
+> the script and predictably accomplish their business goals.
 
-Unlike just about everything else in life, "boring" is actually a
-positive attribute when it comes to software! We don’t want our
-programs to be spontaneous and interesting; we want them to stick to
-the script and predictably accomplish their business goals.
+
 
 ## Drawback
 
