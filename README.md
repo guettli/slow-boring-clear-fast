@@ -154,6 +154,9 @@ Quote:
 > programs to be spontaneous and interesting; we want them to stick to
 > the script and predictably accomplish their business goals.
 
+In the year 2000 I have used several search engines before: AltaVista, Yahoo, MetaGer, ...
+Then someone showed me google. This white page, just one simple text input field. I thought to myself the
+word I am talking about: **boring**. Then I was amazed: Very valuable results. The best results I have ever seen.
 
 
 ## Drawback
