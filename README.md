@@ -33,6 +33,9 @@ V stands for "Solution Variant" and it looks like the symbol for [Logical disjun
  
  Don't forget to add the option "We do nothing today. We postpone the decision and think about this again N days later".
  
+The slow-boring-clear-fast method tries to be very pragmatic. There are academic dicision making techniques which are much more formal. See [Decision-matrix method](https://en.wikipedia.org/wiki/Decision-matrix_method). But these methods are mostly too slow to actually create such a matrix ad-hoc during a meeting.
+
+Nevertheless creating a "matrix" makes sense. But filling a spreadsheet is too cumbersome. If needed, you can add criteria/aspects to each option. You can use [SWOT](https://en.wikipedia.org/wiki/SWOT_analysis) for every option (strengths, weaknesses, opportunities, and threats) 
  
 ## List type 2: Steps
 
