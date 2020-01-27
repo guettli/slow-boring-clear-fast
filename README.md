@@ -51,9 +51,29 @@ current moment know these steps.
 It is like a [Sequence Diagramm](https://en.wikipedia.org/wiki/Sequence_diagram). But keep it simple: Use plain text.
 Don't use fancy UML GUI tools or Visio.
 
+## List type 3: Homework
+
+Who is doing what until when?
+
+Optional: 
+ * Who support him/her?
+ * Who will receive the final status (success/failure)?
+
+Example:
+
+Peter will do x until y. Bob will support him. Peter will report to z if he is done.
+
+
+
+Synonym: [action items](https://en.wikipedia.org/wiki/Action_item)
+
+
+
 ## Create the list **live**
 
-Tomorrow you will decide an important topic in your team? You feel responsible and you want to prepare yourself
+You can use this method twice: During preparation (on your own), during a meeting (like [Minutes of Meeting](https://en.wikipedia.org/wiki/Minutes))
+
+Tomorrow you will decide an important topic in your team? You feel responsible and you want to prepare yourself.
 Create these lists and take them with you. Keep your prepared lists in your pocket.
 
 What kind of meeting will it be?
